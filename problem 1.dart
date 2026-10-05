@@ -1,6 +1,6 @@
 // Problema 1: Cajero Automático
 void main() {
-  int cantidad = 880; // Cambia este valor para probar
+  int cantidad = 1050; // Cambia este valor para probar
 
   // Validar si es múltiplo de 10
   if (cantidad % 10 != 0) {
